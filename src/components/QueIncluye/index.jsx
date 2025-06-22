@@ -64,7 +64,7 @@ export default function QueIncluye() {
                                     ]
 
                                     return (
-                                        <div key={index} className={`flex items-center gap-4 group ${leftMargins[index]}`}>
+                                        <div key={`INC${index}`} className={`flex items-center gap-4 group ${leftMargins[index]}`}>
                                             {/* Number Circle */}
                                             <div
                                                 className={`${item.color} text-white rounded-full aspect-square w-7 lg:w-10 xl:w-14 flex items-center justify-center text-base lg:text-lg xl:text-3xl flex-shrink-0 shadow-lg`}

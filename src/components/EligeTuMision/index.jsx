@@ -13,8 +13,8 @@ export default function EligeTuMision() {
                     <div className="w-[330px] lg:w-[450px] xl:w-[600px] relative">
                         {/* Spiral binding holes */}
                         <div className="w-full flex justify-center space-x-2 z-10">
-                            {[...Array(6)].map(() => (
-                                <img src="/img/Imagen1.png" alt="aros de calendario" className="w-[30px] lg:w-[50px] xl:w-[60px] h-[20px] lg:h-[30px] object-bottom" />
+                            {[...Array(6)].map((_, i) => (
+                                <img key={`IMG${i}`} src="/img/Imagen1.png" alt="aros de calendario" className="w-[30px] lg:w-[50px] xl:w-[60px] h-[20px] lg:h-[30px] object-bottom" />
                             ))}
                         </div>
 
@@ -56,8 +56,8 @@ export default function EligeTuMision() {
                     <div className="w-[330px] lg:w-[450px] xl:w-[600px] relative">
                         {/* Spiral binding holes */}
                         <div className="w-full flex justify-center space-x-2 z-10">
-                            {[...Array(6)].map(() => (
-                                <img src="/img/Imagen2.png" alt="aros de calendario" className="w-[30px] lg:w-[50px] xl:w-[60px] h-[20px] lg:h-[30px] object-bottom" />
+                            {[...Array(6)].map((_, i) => (
+                                <img key={`IMG2${i}`} src="/img/Imagen2.png" alt="aros de calendario" className="w-[30px] lg:w-[50px] xl:w-[60px] h-[20px] lg:h-[30px] object-bottom" />
                             ))}
                         </div>
 

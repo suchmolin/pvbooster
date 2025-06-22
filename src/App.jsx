@@ -1,6 +1,6 @@
 
 import './App.css'
-import AQuienVaDirigido from './components/AQuienVaDirigido'
+import KidsSmart from './components/KidsSmart'
 import Diferenciadores from './components/Diferenciadores'
 import EligeTuMision from './components/EligeTuMision'
 import GeneracionSmart from './components/GeneracionSmart'
@@ -9,6 +9,12 @@ import Navbar from './components/Navbar'
 import NinoSmart from './components/NinoSmart'
 import PorqueEsAtractiva from './components/PorqueEsAtractiva'
 import QueIncluye from './components/QueIncluye'
+import KidsSecundary from './components/KidsSecundary'
+import JuniorsSmart from './components/JuniorsSmart'
+import JuniorsSecundary from './components/JuniorsSecundary'
+import TeensSmart from './components/TeensSmart'
+import TeensSecundary from './components/TeensSecundary'
+import Testiminiales from './components/Testiminiales'
 
 function App() {
 
@@ -22,7 +28,13 @@ function App() {
       <PorqueEsAtractiva />
       <Diferenciadores />
       <EligeTuMision />
-      <AQuienVaDirigido />
+      <KidsSmart />
+      <KidsSecundary />
+      <JuniorsSmart />
+      <JuniorsSecundary />
+      <TeensSmart />
+      <TeensSecundary />
+      <Testiminiales />
 
     </main>
   )

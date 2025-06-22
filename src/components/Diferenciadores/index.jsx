@@ -37,7 +37,7 @@ export default function Diferenciadores() {
                 {features.map((feature, index) => {
                     const IconComponent = feature.icon
                     return (
-                        <div key={index} className="flex flex-col items-center text-center">
+                        <div key={`DIF${index}`} className="flex flex-col items-center text-center">
                             <img src={IconComponent} className="w-[200px] aspect-square" alt={feature.title} />
                             {/* Texto descriptivo */}
                             <div className="space-y-1">
