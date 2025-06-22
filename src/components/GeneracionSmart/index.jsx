@@ -2,7 +2,7 @@ import CardsEtapas from "../CardsEtapas";
 
 export default function GeneracionSmart() {
     return (
-        <section className="w-full flex flex-col items-center pb-10">
+        <section id="Etapas" className="w-full flex flex-col items-center pb-10">
             <div className="w-[290px] xs:w-[370px] sm:w-[630px] md:w-[760px] lg:w-[1030px] xl:w-[1250px] flex flex-col items-center justify-center gap-4">
                 <h2 className="w-9/12 rounded-b-4xl bg-gradient-to-r from-[#204594] to-[#2A529A] text-white text-2xl md:text-3xl lg:text-5xl text-center py-3 lg:py-6 gotham-bold">
                     ¿Qué es la Generación {" "}

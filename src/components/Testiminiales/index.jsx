@@ -1,6 +1,6 @@
 export default function Testiminiales() {
     return (
-        <section className="w-full flex flex-col items-center py-15">
+        <section id="Testimoniales" className="w-full flex flex-col items-center py-15">
             <h2 className="text-3xl sm:text-5xl md:text-6xl text-[#0098b0] text-center gotham-bold leading-6 sm:leading-12 mb-10">
                 Testimoniales
                 <br />

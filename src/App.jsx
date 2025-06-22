@@ -15,6 +15,7 @@ import JuniorsSecundary from './components/JuniorsSecundary'
 import TeensSmart from './components/TeensSmart'
 import TeensSecundary from './components/TeensSecundary'
 import Testiminiales from './components/Testiminiales'
+import WhatsappButton from './components/WhatsappButton'
 
 function App() {
 
@@ -35,6 +36,7 @@ function App() {
       <TeensSmart />
       <TeensSecundary />
       <Testiminiales />
+      <WhatsappButton />
 
     </main>
   )

@@ -1,6 +1,6 @@
 export default function EligeTuMision() {
     return (
-        <div className="flex items-center justify-center p-4">
+        <div id="Fechas" className="flex items-center justify-center p-4">
             <div className=" w-full">
                 {/* Header */}
                 <div className="text-center mb-12">

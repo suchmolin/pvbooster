@@ -28,7 +28,7 @@ export default function QueIncluye() {
     ]
 
     return (
-        <div className="w-full pt-10 md:pt-0">
+        <div id="Caracteristicas" className="w-full pt-10 md:pt-0">
             <div className="relative w-full">
                 <div className="text-center w-full ">
                     <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-bold whitespace-nowrap">
