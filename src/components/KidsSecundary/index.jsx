@@ -7,7 +7,7 @@ export default function KidsSecundary() {
                     <div className="order-2 lg:order-1">
                         <video
                             className="w-full h-auto rounded-lg"
-                            src="/img/IMG_5065.MOV" controls />
+                            src="/img/IMG_5069.MP4" controls />
                     </div>
 
                     {/* Right side - Content */}

@@ -34,7 +34,7 @@ export default function CardsEtapas() {
                         <p className="text-lg lg:text-xl gotham-bold">{item.etapa}</p>
                         <div className="w-full flex justify-center pt-5">
 
-                            <a href="#" className="text-base md:text-sm lg:text-base px-4 lg:px-10 py-2 bg-[#002760] rounded-xl -mb-7 md:-mb-4 lg:-mb-7 text-center">Reserva tu cupo</a>
+                            <a href="https://wa.me/message/DY3B5QP5KECRN1" className="text-base md:text-sm lg:text-base px-4 lg:px-10 py-2 bg-[#002760] rounded-xl -mb-7 md:-mb-4 lg:-mb-7 text-center">Reserva tu cupo</a>
                         </div>
                     </div>
                 </div>

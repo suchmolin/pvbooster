@@ -12,7 +12,7 @@ export default function Header() {
                         <br />
                         que piensa, crea y se supera”
                     </h1>
-                    <a className="rounded-[40px] gotham-bold bg-[#c200aa] text-2xl xl:text-3xl text-white px-20 py-3 w-fit" href="#">¡Inscribe ahora!</a>
+                    <a className="rounded-[40px] gotham-bold bg-[#c200aa] text-2xl xl:text-3xl text-white px-20 py-3 w-fit" href="https://wa.me/message/DY3B5QP5KECRN1">¡Inscribe ahora!</a>
                 </div>
             </section>
             <section className="w-full flex lg:hidden flex-col items-center text-center justify-center py-5 gap-5 bg-gradient-to-r from-[#204594] to-[#2A529A]">
@@ -25,7 +25,7 @@ export default function Header() {
                     <br />
                     que piensa, crea y se supera”
                 </h1>
-                <a className="rounded-[40px] gotham-bold bg-[#c200aa] text-xl sm:text-2xl text-white px-20 py-2 sm:py-3 w-fit" href="#">¡Inscribe ahora!</a>
+                <a className="rounded-[40px] gotham-bold bg-[#c200aa] text-xl sm:text-2xl text-white px-20 py-2 sm:py-3 w-fit" href="https://wa.me/message/DY3B5QP5KECRN1">¡Inscribe ahora!</a>
             </section>
         </>
     )

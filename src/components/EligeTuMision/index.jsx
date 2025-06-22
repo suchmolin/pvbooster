@@ -43,7 +43,7 @@ export default function EligeTuMision() {
                             <div className="w-full flex justify-center items-center bg-[#44bfcf] pt-22 xl:pt-25 -mt-20">
 
                                 <a
-                                    href="#"
+                                    href="https://wa.me/message/DY3B5QP5KECRN1"
                                     className="w-full text-white gotham-bold text-lg py-3 text-center hover:scale-105 duration-300 "
                                 >
                                     ¡INSCRIBIR AHORA!
@@ -82,7 +82,7 @@ export default function EligeTuMision() {
                             <div className="w-full flex justify-center items-center bg-[#c200aa] pt-22 xl:pt-25 -mt-20">
 
                                 <a
-                                    href="#"
+                                    href="https://wa.me/message/DY3B5QP5KECRN1"
                                     className="w-full text-white gotham-bold text-lg py-3 text-center hover:scale-105 duration-300 "
                                 >
                                     ¡INSCRIBIR AHORA!
