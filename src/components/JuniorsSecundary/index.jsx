@@ -5,7 +5,9 @@ export default function JuniorsSecundary() {
                 <div className="grid lg:grid-cols-2 gap-8 items-center">
                     {/* Left side - Image placeholder */}
                     <div className="order-2 lg:order-1">
-                        <div className="bg-gray-600 rounded-lg aspect-video w-full"></div>
+                        <video
+                            className="w-full h-auto rounded-lg"
+                            src="/img/IMG_5066.MOV" controls />
                     </div>
 
                     {/* Right side - Content */}
