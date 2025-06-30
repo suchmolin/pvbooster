@@ -7,7 +7,7 @@ export default function JuniorsSecundary() {
                     <div className="order-2 lg:order-1">
                         <video
                             className="w-full h-auto rounded-lg"
-                            src="/img/IMG_5068.MP4" controls />
+                            src="/img/IMG_5068_.webm" controls />
                     </div>
 
                     {/* Right side - Content */}
