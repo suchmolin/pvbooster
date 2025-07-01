@@ -14,13 +14,13 @@ export default function GeneracionSmart() {
                     ?
                 </h2>
 
-                <h3 className="text-md md:text-lg lg:text-2xl xl:text-3xl gotham-bold text-center mt-5 text-[#002760]  lg:leading-9 sm:px-12">En estas vacaciones, aprender es sinónimo de jugar, crear y experimentar.
+                <h3 className="text-md md:text-lg lg:text-2xl xl:text-3xl gotham-bold text-center mt-5 text-[#001675]  lg:leading-9 sm:px-12">En estas vacaciones, aprender es sinónimo de jugar, crear y experimentar.
                     La ciencia y la tecnología se convierten en aliadas para divertirse mientras
                     <br />
                     <span className="text-[#a6129f] gotham-black md:whitespace-nowrap">SE DESCUBREN SOLUCIONES, SE ALCANZAN METAS Y SE ACTIVA EL INGENIO</span>
                 </h3>
                 <CardsEtapas />
-                <h3 className="text-md md:text-lg lg:text-2xl xl:text-3xl gotham-bold text-center mt-14 text-[#002760]  lg:leading-9 sm:px-6 md:px-12">
+                <h3 className="text-md md:text-lg lg:text-2xl xl:text-3xl gotham-bold text-center mt-14 text-[#001675]  lg:leading-9 sm:px-6 md:px-12">
                     El Plan Vacacional de Boostermath da vida a {" "}
                     <span className="text-[#a6129f] gotham-black">LA GENERACIÓN SMART:{" "}</span>
                     niños y adolescentes que se divierten con propósito, exploran con curiosidad y se desarrollan como pensadores críticos.

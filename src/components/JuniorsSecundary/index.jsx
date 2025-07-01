@@ -14,7 +14,7 @@ export default function JuniorsSecundary() {
                     <div className="order-1 lg:order-2  gotham-bold">
                         <h1 className=" text-white text-xl sm:text-4xl xl:text-5xl gotham-bold mb-8 text-center ">
                             “Aprenden mientras {" "}
-                            <span className="text-[#000c78]">juegan, resuelven y experimentan.”</span>
+                            <span className="text-[#001675]">juegan, resuelven y experimentan.”</span>
                         </h1>
 
                         {/* Activity icons grid */}

@@ -4,7 +4,7 @@ export default function PorqueEsAtractiva() {
         <div className="pt-[10%]">
             {/* Header */}
             <div className="text-center mb-12">
-                <h1 className="text-3xl md:text-4xl font-bold text-blue-900 leading-tight">
+                <h1 className="text-3xl md:text-4xl font-bold text-[#001675] leading-tight">
                     ¿Por qué es atractiva
                     <br />
                     nuestra generación SMART?

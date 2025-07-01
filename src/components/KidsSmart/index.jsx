@@ -2,9 +2,7 @@ export default function KidsSmart() {
     return (
         <div className="flex flex-col items-center pb-20">
             {/* Header */}
-            <div className="text-center mt-20">
-                <h1 className="text-4xl sm:text-5xl gotham-bold text-[#001479] mb-2">¿A quién va dirigido?</h1>
-            </div>
+
             <div className="w-[340px] sm:w-[630px] md:w-[760px] lg:w-[1030px] xl:w-[1250px] flex flex-col sm:flex-row justify-center pt-20 sm:pl-25 lg:pl-20">
 
                 {/* Left Side Skills */}
@@ -52,7 +50,7 @@ export default function KidsSmart() {
                     {/* Smart Kids Label */}
                     <div className="text-center -mt-10">
                         <h2 className="text-5xl xl:text-6xl gotham-black text-[#fca100] text-nowrap m">SMART KIDS</h2>
-                        <p className="text-4xl gotham-bold text-[#001479]">3-5 AÑOS</p>
+                        <p className="text-4xl gotham-bold text-[#001675]">3-5 AÑOS</p>
                     </div>
                 </div>
 
@@ -74,7 +72,7 @@ export default function KidsSmart() {
                             <img src="/img/tecnologia.png" alt="icono diferenciadores" className="w-[70px] lg:w-[80px] aspect-square" />
                         </div>
                         <div>
-                            <h3 className="flex lg:inline-block flex-col"><span className="text-sm sm:text-base xl:text-xl text-[#000c78] gotham-bold">Tecnología:</span> Se familiarizan con herramientas que transforman el juego en descubrimiento.</h3>
+                            <h3 className="flex lg:inline-block flex-col"><span className="text-sm sm:text-base xl:text-xl text-[#001675] gotham-bold">Tecnología:</span> Se familiarizan con herramientas que transforman el juego en descubrimiento.</h3>
                             <p className="text-sm text-gray-700">
 
                             </p>

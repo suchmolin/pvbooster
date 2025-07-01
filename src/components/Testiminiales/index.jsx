@@ -36,7 +36,7 @@ export default function Testiminiales() {
             <div className="mx-auto text-center">
                 {/* Header */}
                 <h2 className="text-4xl md:text-5xl font-bold text-[#059bb0] mb-4">Testimoniales</h2>
-                <p className="text-2xl md:text-3xl font-semibold text-[#0e1f75] mb-12 leading-tight">
+                <p className="text-2xl md:text-3xl font-semibold text-[#001675] mb-12 leading-tight">
                     Ellos nos cuentan la experiencia
                     <br />
                     de sus pequeños en Booster
@@ -70,7 +70,7 @@ export default function Testiminiales() {
                                         </div>
 
                                         {/* Testimonial text */}
-                                        <div className="space-y-4 text-[#0e1f75]">
+                                        <div className="space-y-4 text-[#001675]">
                                             {item.texto.map((texto, idx) => (
                                                 <p key={idx} className="text-sm sm:text-lg md:text-xl leading-relaxed">
                                                     {texto}

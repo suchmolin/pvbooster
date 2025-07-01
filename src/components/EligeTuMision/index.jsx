@@ -4,7 +4,7 @@ export default function EligeTuMision() {
             <div className=" w-full">
                 {/* Header */}
                 <div className="text-center mb-12">
-                    <h1 className="text-4xl md:text-5xl gotham-bold text-[#002d60] mb-2">Elige tu misión SMART</h1>
+                    <h1 className="text-4xl md:text-5xl gotham-bold text-[#001675] mb-2">Tú eliges la duración del plan</h1>
                 </div>
 
                 {/* Plans Container */}
@@ -22,12 +22,12 @@ export default function EligeTuMision() {
                             {/* Header */}
                             <div className="bg-[#44bfcf] text-white text-center py-6 px-4">
                                 <div className="text-lg font-semibold mb-1">PLAN DE</div>
-                                <div className="text-3xl font-bold">2 SEMANA</div>
+                                <div className="text-3xl font-bold">2 SEMANAS</div>
                             </div>
 
                             {/* Content */}
                             <div className="relative p-3 lg:p-6 h-[220px] xl:h-[240px] text-center bg-[#ecfaff] rounded-b-[50px] z-30">
-                                <div className="h-full flex flex-col justify-center items-center text-[#002d60] gotham-bold text-base lg:text-xl xl:text-2xl">
+                                <div className="h-full flex flex-col justify-center items-center text-[#001675] gotham-bold text-base lg:text-xl xl:text-2xl">
                                     <div>21 de Julio al 1 de Agosto.</div>
                                     <div className="mb-2 w-[230px] lg:w-[280px] h-[4px] bg-[#44bfcf]"></div>
                                     <div>4 de Agosto al 15 de Agosto.</div>
@@ -65,7 +65,7 @@ export default function EligeTuMision() {
                             {/* Header */}
                             <div className="bg-[#c200aa] text-white text-center py-6 px-4">
                                 <div className="text-lg font-semibold mb-1">PLAN DE</div>
-                                <div className="text-3xl font-bold">4 SEMANA</div>
+                                <div className="text-3xl font-bold">4 SEMANAS</div>
                             </div>
 
                             {/* Content */}
@@ -90,6 +90,9 @@ export default function EligeTuMision() {
                             </div>
                         </div>
                     </div>
+                </div>
+                <div className="text-center mt-12">
+                    <h1 className="text-4xl md:text-5xl gotham-bold text-[#001675] mb-2">Elige tu misión SMART</h1>
                 </div>
             </div>
         </div>)

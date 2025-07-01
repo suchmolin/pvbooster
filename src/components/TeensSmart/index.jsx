@@ -2,9 +2,7 @@ export default function TeensSmart() {
     return (
         <div className="flex flex-col items-center pb-20">
             {/* Header */}
-            <div className="text-center mt-20">
-                <h1 className="text-4xl sm:text-5xl gotham-bold text-[#001479] mb-2">¿A quién va dirigido?</h1>
-            </div>
+
             <div className="w-[340px] sm:w-[630px] md:w-[760px] lg:w-[1030px] xl:w-[1250px] flex flex-col sm:flex-row justify-center pt-20 sm:pl-25 lg:pl-20">
 
                 {/* Left Side Skills */}
@@ -52,7 +50,7 @@ export default function TeensSmart() {
                     {/* Smart Kids Label */}
                     <div className="text-center -mt-5">
                         <h2 className="text-4xl xl:text-5xl gotham-black text-[#7cb147] text-nowrap m">SMART TEENS</h2>
-                        <p className="text-4xl gotham-bold text-[#001479]">11-15 AÑOS</p>
+                        <p className="text-4xl gotham-bold text-[#001675]">11-15 AÑOS</p>
                     </div>
                 </div>
 
@@ -74,7 +72,7 @@ export default function TeensSmart() {
                             <img src="/img/tecnologia.png" alt="icono diferenciadores" className="w-[70px] lg:w-[80px] aspect-square" />
                         </div>
                         <div>
-                            <h3 className="flex lg:inline-block flex-col"><span className="text-sm sm:text-base xl:text-xl text-[#000c78] gotham-bold">Tecnología:</span> Usan la tecnología como herramienta de investigación, creación y solución.</h3>
+                            <h3 className="flex lg:inline-block flex-col"><span className="text-sm sm:text-base xl:text-xl text-[#001675] gotham-bold">Tecnología:</span> Usan la tecnología como herramienta de investigación, creación y solución.</h3>
                             <p className="text-sm text-gray-700">
 
                             </p>

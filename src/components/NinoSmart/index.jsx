@@ -17,13 +17,13 @@ export default function NinoSmart() {
                 <div className={`${styleBadge} bg-[#c200aa] rounded-l-full pr-4 lg:pr-20 w-fit`}>
                     Crítico y creativo
                 </div>
-                <div className={`${styleBadge} bg-[#001276] rounded-l-full pr-10 lg:pr-15 w-fit`}>Motivado</div>
+                <div className={`${styleBadge} bg-[#001675] rounded-l-full pr-10 lg:pr-15 w-fit`}>Motivado</div>
                 <div className={`${styleBadge} bg-[#5dbfca] rounded-l-full pr-10 lg:pr-17 w-fit`}>Tecnológico</div>
             </div>
 
             {/* Center content */}
             <div className="text-center sm:px-32 py-[200px] sm:py-[180px] md:py-12">
-                <h1 className="text-[#001276] text-2xl text-nowrap sm:text-4xl lg:text-5xl font-bold mb-6">Así es un niño</h1>
+                <h1 className="text-[#001675] text-2xl text-nowrap sm:text-4xl lg:text-5xl font-bold mb-6">Así es un niño</h1>
                 <div className="flex justify-center bebas  text-[140px] lg:text-[200px] items-center space-x-2 leading-[100px] lg:leading-[150px]">
                     <span className="text-[#fabf00] -ml-2">S</span>
                     <span className="text-[#7cb147] -ml-2">M</span>
